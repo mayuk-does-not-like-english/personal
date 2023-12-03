@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#mycarousel
+{
+    background-color: rgba(11, 65, 104, 0.758);
+    margin:50px ;
+}
+img{
+    width:250px ;
+    height:250px ;
+}
+
